@@ -1,0 +1,9 @@
+dabase name = preselect
+
+table 1 = tag   
+	* id
+	* tug_num
+
+table 2 = tbl_can  
+	* id
+	* candidates
